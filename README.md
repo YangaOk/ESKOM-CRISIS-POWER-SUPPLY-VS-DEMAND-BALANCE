@@ -2,15 +2,15 @@
 
 Yanga Ndamase | Data Analyst | yangakwethu@gmail.com | www.linkedin.com/in/yanga-ndamase-293a02210 
 
-# 1. Project Overview
+ 1. Project Overview
 
 This Power BI project provides a comprehensive analysis of Eskom’s energy generation, demand, capacity, and system performance across multiple energy sources over time. The focus is on exploring the supply-demand balance, understanding renewable energy integration, and identifying operational challenges faced by South Africa’s national energy provider.
 
-# 2. Personal Motivation
+2. Personal Motivation
 
 I chose this project to deepen my skills in data visualization and analysis while tackling a real-world energy crisis that affects millions. As someone passionate about both data and sustainability, this was a meaningful opportunity to demonstrate how technology can inform energy policy and drive more sustainable decision-making.
 
-# 3. Data Collection and Preparation
+3. Data Collection and Preparation
 
 The dataset used in this project provides high-level insights into Eskom’s operations, covering:
 
@@ -28,7 +28,7 @@ Seasonal and time-of-day consumption patterns
 
 The data was cleaned and transformed using Power Query (M). Key measures were calculated using DAX in Power BI. Special attention was given to ensuring time-series consistency, accurate data types, and handling of missing values.
 
-# 4. Exploratory Data Analysis (EDA)
+4. Exploratory Data Analysis (EDA)
 
 Descriptive and visual analysis revealed:
 
@@ -38,7 +38,7 @@ Residual demand, which represents demand minus renewable and other non-dispatcha
 
 Renewable sources contribute only a limited share of the energy mix but are growing steadily.
 
-# 5. Advanced Data Analysis
+5. Advanced Data Analysis
 
 Through advanced visual analytics in Power BI, the following techniques and dashboards were developed:
 
@@ -58,7 +58,7 @@ Peak Residual Demand: 34.03k
 
 Average Daily Generation: 547.00k
 
-# 6. Key Findings
+6. Key Findings
 
 Seasonal and daily usage patterns are significant, especially during winter nights when demand spikes.
 
@@ -68,13 +68,13 @@ Residual demand frequently exceeds dispatchable capacity, risking blackouts and 
 
 CSP utilization trends suggest room for operational efficiency and better resource allocation.
 
-# 7. Practical Implications
+7. Practical Implications
 
 Helps inform energy planning and load management, potentially reducing load-shedding.
 
 Power BI dashboards can serve as decision-support tools for Eskom and policymakers to monitor and act on energy shortfalls.
 
- # 8. Challenges and Solutions
+ 8. Challenges and Solutions
 
 Challenges:
 
@@ -88,7 +88,7 @@ Used Power Query to build a robust data cleaning pipeline
 
 Applied custom DAX measures to accurately calculate rolling averages, residual demand, and seasonal splits
 
-# 9. Conclusion and Future Work
+9. Conclusion and Future Work
 
 This project demonstrated how data analytics and visualization can provide critical insights into Eskom’s power supply challenges. The interactive dashboard highlights supply gaps, underutilized capacity, and opportunities to enhance sustainability.
 
@@ -100,11 +100,11 @@ Applying predictive models to forecast demand and renewable output
 
 Including cost analysis to evaluate financial sustainability
 
-# 10. Personal Reflection
+10. Personal Reflection
 
 This project my first PowerBi dashboard in essence, it helped me grow significantly in using Power BI, DAX, and Power Query. It also deepened my understanding of energy systems and how data can be used to drive change in critical infrastructure sectors. It reaffirmed my passion for combining data science and sustainability in impactful ways. In addition to that, I realize there is a greater need for Data Sciences within Sustainability. 
 
-# 11. References
+11. References
 
 Eskom Open Data Portal (Data is available upon request)
 
